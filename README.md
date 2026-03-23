@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://www.xmjjs.top">
+    <img src="https://img.scdn.io/i/69c1c63169e57_1774306865.jpeg" alt="Banner" width="50%">
+  </a>
+</p>
 
-<!--
-**XMJjs/XMJjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, i'm <a href="https://www.xmjjs.top">XMJjs</a>!</h1>
+<p align="center">
+  <a href="https://wwww.xmjjs.top">
+    <img src="https://q1.qlogo.cn/g?b=qq&nk=3078780148&s=640" alt="XMJjs" height="64">
+  </a>
+</p>
+<h3 align="center">welcome to my profile！</h3>
 
-Here are some ideas to get you started:
+<p align="center">(*≧ω≦)</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong><a href="https://www.xmjjs.top>Website</a></strong> |
+  
+</p>
+
