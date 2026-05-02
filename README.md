@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.xmjjs.top">
-    <img src="https://img.scdn.io/i/69c1c63169e57_1774306865.jpeg" alt="Banner" width="50%">
+    <img src="nya.png" alt="Banner" width="50%">
   </a>
 </p>
 
