@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, i'm <a href="https://www.xmjjs.top">XMJjs</a>!</h1>
 <p align="center">
-  <a href="https://wwww.xmjjs.top">
+  <a href="https://www.xmjjs.top">
     <img src="https://q1.qlogo.cn/g?b=qq&nk=3078780148&s=640" alt="XMJjs" height="64">
   </a>
 </p>
